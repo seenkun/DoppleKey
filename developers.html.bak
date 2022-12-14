@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>DOPPLE KEY</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="container">
+  <div id="top">
+    <h1>Dopple Key</h1>
+    <div class="search">
+    </div>
+  </div>
+  <div id="navcontainer">
+    <ul id="navlist">
+      <li id="active"><a href="index.html" id="current">Dopple key</a></li>
+      <li><a href="download.html">download</a></li>
+      <li><a href="about.html">about</a></li>
+    </ul>
+  </div>
+  <div id="leftnav">
+    <h2>More Links</h2>
+    <ul id="leftnavmenu">
+      <li><a href="about.html">About Dopple key</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="developers.html">Dopple key Developers</a></li>
+    </ul>
+    <p class="quote">Encrypt Without Worry (E.W.W)</p>
+  </div>
+  <div id="content">
+    <h2>Get to know the creators!</h2>
+    <p>The creators of the project is a group of diploma in Network Security students from German Malaysian Institute.</p>
+	<h2>Meet us!</h2>
+	<p><img src="images/fyp.png" width="426" height="260"></p>
+	<h2>Aaron Azree</h2><hr>
+    <p>Aaron is the leader of the project. He fascilitates each individual tasks, making sure all of us are working towards reaching the objectives of the project.</p>
+	<h2>Ahmad Muhsin</h2><hr>
+    <p>Muhsin takes care of most of the technical parts. He basically takes care of the coding section.</p>
+	<h2>Amira Tsara</h2><hr>
+    <p>Tsara is Muhsin's assistant, which is tasked to support any of the coding skills he lacks of as well as troubleshooting the code.</p>
+	<h2>Aiman Syamil Shah</h2><hr>
+    <p>Aiman focuses mainly on researching and testing the software, making sure that it runs well without any issue.</p>
+	<h2>Faris Irsyadi</h2><hr>
+    <p>Faris' tasked are similar to Aiman. And since this is a final year project, a final report is needed. Faris also focuses on the reportings.</p>
+  </div>
+  <div id="footer">
+    <p><a href="#">homepage</a> | <a href="#">contact</a> | &copy; 2007 Anyone | Design by <a href="http://www.mitchinson.net"> www.mitchinson.net</a> | Licensed under a <a rel="license" target="_blank" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a></p>
+  </div>
+</div>
+</body>
+</html>
